@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="444" width ="700" src="https://cdn.mos.cms.futurecdn.net/ELw6mf7p6zLJSRcQqxKd7M.jpg"  />
+  <img height="344" width ="1000" src="https://cdn.mos.cms.futurecdn.net/ELw6mf7p6zLJSRcQqxKd7M.jpg"  />
 </div>
 
 ###
