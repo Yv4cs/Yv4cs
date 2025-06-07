@@ -35,7 +35,7 @@
 
 ###
 
-<br clear="both">
+<hr>
 
 <img align="right" height="363" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"  />
 
