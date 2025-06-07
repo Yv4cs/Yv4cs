@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img height="508" width="500" src="[https://github.com/JoshuaThadi/Wall-E-Desk/raw/main/Pixel-Art-2/green.gif](https://cdn.mos.cms.futurecdn.net/ELw6mf7p6zLJSRcQqxKd7M.jpg)"  />
+</div>
 
 ###
 
