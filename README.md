@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="center">A Developer from Vietnam</h3>
+<h3 align="center">An AI Engineer from Australia</h3>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h4 align="left">🎓 A final-year IT student with a passion for Full Stack Development & AI Engineering<br><br>🔭 Currently working part-time in e-commerce, blending tech & creativity to sell smarter<br><br>📚 Learning all the cool stuff — from IoT and Deep Learning to a bit of ethical hacking<br><br>🎮 When I’m not coding, you’ll find me lost in games, sketching architecture, or dreaming up side projects<br><br>⚡ Tech isn't just a career for me — it's the way I explore the world, break things (safely), and rebuild them better</h4>
+<h4 align="left">🎓 An Engineer with the passion for Full Stack Development & AI Engineering<br><br>🔭 Currently working part-time in e-commerce, blending tech & creativity to sell smarter<br><br>📚 Learning all the cool stuff — from IoT and Deep Learning to a bit of ethical hacking<br><br>🎮 When I’m not coding, you’ll find me lost in games, sketching architecture, or dreaming up side projects<br><br>⚡ Tech isn't just a career for me — it's the way I explore the world, break things (safely), and rebuild them better</h4>
 
 ###
 
