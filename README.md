@@ -41,14 +41,15 @@ Every run is in [`h100-qwen3-8b.csv`](./assets/h100-qwen3-8b.csv), and [`build_a
 
 | Area | Tools |
 |---|---|
-| **Robotics** | ROS 2, Nav2, SLAM, Gazebo, LiDAR, Jetson Nano, Raspberry Pi |
-| **Inference and GPU** | vLLM, SGLang, TensorRT-LLM, NVML, FP8 and AWQ quantization |
+| **Robotics** | ROS 2, Nav2, SLAM, Gazebo, LiDAR, OpenCV |
+| **Hardware** | Jetson Nano, Raspberry Pi, STM32, Arduino, ESP32 |
+| **Inference and GPU** | CUDA, vLLM, SGLang, TensorRT-LLM, NVML, FP8 and AWQ quantization |
 | **AI engineering** | Python, PyTorch, TensorFlow, LangChain, RAG, Claude Code |
 | **Systems** | Linux, Docker, Kubernetes, AWS, PostgreSQL |
 
 ## Background
 
 - **Now:** freelance web apps, and game development for Steam
-- **Before:** AI engineer and software engineer
+- **Before:** AI engineer in underwater robotics, and software engineer
 - **Education:** Bachelor of Information Technology, Torrens University Australia, 2023–2025
 - **Next:** planning a Master of Advanced Engineering at Monash University, Melbourne
